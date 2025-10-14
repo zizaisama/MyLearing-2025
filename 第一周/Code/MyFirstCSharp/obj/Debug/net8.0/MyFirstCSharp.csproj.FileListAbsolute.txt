@@ -1,0 +1,15 @@
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\bin\Debug\net8.0\MyFirstCSharp.exe
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\bin\Debug\net8.0\MyFirstCSharp.deps.json
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\bin\Debug\net8.0\MyFirstCSharp.runtimeconfig.json
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\bin\Debug\net8.0\MyFirstCSharp.dll
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\bin\Debug\net8.0\MyFirstCSharp.pdb
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\obj\Debug\net8.0\MyFirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\obj\Debug\net8.0\MyFirstCSharp.AssemblyInfoInputs.cache
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\obj\Debug\net8.0\MyFirstCSharp.AssemblyInfo.cs
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\obj\Debug\net8.0\MyFirstCSharp.csproj.CoreCompileInputs.cache
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\obj\Debug\net8.0\MyFirstCSharp.sourcelink.json
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\obj\Debug\net8.0\MyFirstCSharp.dll
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\obj\Debug\net8.0\refint\MyFirstCSharp.dll
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\obj\Debug\net8.0\MyFirstCSharp.pdb
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\obj\Debug\net8.0\MyFirstCSharp.genruntimeconfig.cache
+D:\project\我的学习历程-2025\第一周\Code\MyFirstCSharp\obj\Debug\net8.0\ref\MyFirstCSharp.dll
