@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Test t = new Test("tttttt");
+
+
+public class Test
+{
+    public Test()
+    {
+
+    }
+    public Test(String t)
+    {
+        Console.WriteLine(t);
+    }
+}
+
